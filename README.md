@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Login" src="img/Loginweb.png" width="100%"><br>
+  <img alt="Login" src="/jogodavelha.gif" width="40%"><br>
 </p>
 
 ## Game - Jogo da Velha
